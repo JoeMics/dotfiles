@@ -1,0 +1,16 @@
+root = true
+
+# 4 space indentation
+[*.{py,md,txt,html}]
+indent_style = space
+indent_size = 4
+
+# 2 space  indentation
+[*.{js,ts,jsx,tsx,vue,svelte}]
+indent_style = tab
+indent_size = 2
+
+# 4 space indentation
+[*.{sh,zsh}]
+indent_style = tab
+indent_size = 4
