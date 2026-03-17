@@ -1,4 +1,4 @@
-figlet -cf lean "Welcome"
+# figlet -cf lean "Welcome"
 fastfetch
 
 # Set neovim as default editor if possible
