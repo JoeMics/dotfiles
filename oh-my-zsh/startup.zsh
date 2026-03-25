@@ -21,3 +21,5 @@ alias o="dolphin . &"
 
 # BCCRC specific scripts
 alias moloncstart="$HOME/dotfiles/scripts/start_atlas-fe.sh"
+
+export TERM=xterm-256color
